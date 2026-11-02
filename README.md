@@ -229,3 +229,7 @@ bun run test
 bun run coverage
 bun run lint
 ```
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
